@@ -1,0 +1,17 @@
+day,start,end,subject,faculty,room,class_group
+Mon,09:00,10:00,Mathematics,Dr. Rao,R101,CSE-A
+Mon,10:00,11:00,Physics,Dr. Sharma,R102,CSE-A
+Mon,10:30,11:30,Chemistry,Dr. Iyer,R102,CSE-B
+Mon,11:00,12:00,Data Structures,Dr. Rao,R103,CSE-B
+Mon,11:30,12:30,English,Ms. Das,R104,CSE-B
+Mon,14:00,16:00,DS Lab,Mr. Khan,LAB1,CSE-A
+Tue,09:00,10:00,DBMS,Dr. Verma,R101,CSE-A
+Tue,09:30,10:30,Python,Dr. Verma,R103,CSE-B
+Tue,10:00,11:00,OOAD,Ms. Das,R102,CSE-A
+Tue,10:00,11:00,Maths Tutorial,Dr. Rao,R101,CSE-A
+Tue,14:00,16:00,DBMS Lab,Mr. Khan,LAB1,CSE-B
+Wed,09:00,10:00,Mathematics,Dr. Rao,R101,CSE-A
+Wed,10:00,11:00,Physics,Dr. Sharma,R102,CSE-B
+Wed,11:00,12:00,Python,Dr. Verma,R103,CSE-A
+Wed,14:00,16:00,Python Lab,Mr. Khan,LAB1,CSE-A
+Wed,15:00,17:00,Networks Lab,Mr. Khan,LAB2,CSE-B
